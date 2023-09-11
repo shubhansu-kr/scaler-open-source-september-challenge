@@ -12,3 +12,4 @@
 | IssueLink     | <https://github.com/scaleracademy/scaler-open-source-september-challenge/issues/262>  |
 | ForumLink     | <https://discord.com/channels/780066247601291285/1147188194199228457>                 |
 | PRLink        | <https://github.com/scaleracademy/scaler-open-source-september-challenge/pull/691>    |
+| ForkLink      | <https://github.com/shubhansu-kr/scaler-open-source-september-challenge>              |
