@@ -13,8 +13,8 @@
 | 09       | <https://twitter.com/shubhansu_kr/status/1700445316670259251> |
 | 10       | <https://twitter.com/shubhansu_kr/status/1700868626348155355> |
 | 11       | <https://twitter.com/shubhansu_kr/status/1701129666457747510> |
-| 12       | <> |
-| 13       | <> |
+| 12       | <https://twitter.com/shubhansu_kr/status/1701626876408561982> |
+| 13       | <https://twitter.com/shubhansu_kr/status/1702008705238319316> |
 | 14       | <> |
 | 15       | <> |
 | 16       | <> |
