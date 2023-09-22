@@ -19,10 +19,10 @@
 | 15       | <https://twitter.com/shubhansu_kr/status/1702704113027535036> |
 | 16       | <https://twitter.com/shubhansu_kr/status/1703070126000447919> |
 | 17       | <https://twitter.com/shubhansu_kr/status/1703461341183303929> |
-| 18       | <> |
-| 19       | <> |
-| 20       | <> |
-| 21       | <> |
+| 18       | <https://twitter.com/shubhansu_kr/status/1703818192454295634> |
+| 19       | <https://twitter.com/shubhansu_kr/status/1704157274187366615> |
+| 20       | <https://twitter.com/shubhansu_kr/status/1704568091760288232> |
+| 21       | <https://twitter.com/shubhansu_kr/status/1704906125374570620> |
 | 22       | <> |
 | 23       | <> |
 | 24       | <> |
@@ -37,3 +37,4 @@
 | --------- | ------------------------------------------------------------- |
 | 01        | <https://twitter.com/shubhansu_kr/status/1700172676654903311> |
 | 02        | <https://twitter.com/shubhansu_kr/status/1702687897542152240> |
+| 03        | <https://twitter.com/shubhansu_kr/status/1705238636877234322> |
