@@ -31,7 +31,7 @@
 | 27       | <https://twitter.com/shubhansu_kr/status/1707097911580839971> |
 | 28       | <https://twitter.com/shubhansu_kr/status/1707289441860227482> |
 | 29       | <https://twitter.com/shubhansu_kr/status/1707794918406607277> |
-| 30       | <> |
+| 30       | <https://twitter.com/shubhansu_kr/status/1708156024098607584> |
 
 | MileStone | Link                                                          |
 | --------- | ------------------------------------------------------------- |
